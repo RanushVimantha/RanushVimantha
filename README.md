@@ -14,24 +14,22 @@
 </h5>
 <br>
 <p align="center">
-  Hi, I'm Osman DURDAĞ, Research Assistant & Computer Engineer & Software Developer from Turkey
+  Hi, I'm Ranush Vimantha, DevOps Engineer & AI Developer & Software Developer from Sri Lanka
   <br>
   <br>
-  🔬 I'm currently studying for my doctorate at Atatürk University, Department of Computer Engineering
+  🔬 I'm currently studying for my bachelors at Plymouth University UK, Department of Computer Engineering
   <br>
   🎓 I graduated from Atatürk University, Department of Computer Engineering (Master)
   <br>
-  🎓 I graduated from Black Sea Technical University, Department of Computer Engineering (Undergraduate)
+  🎓 I graduated from Prince of Wales College
   <br>
-  🎓 I graduated from Erzurum İbrahim Hakkı Science High School
+  💻 I love to code and learn about new technologies.
   <br>
-  💻 I love writing code and learn anythings about it
+  📚 I’m currently learning about AI Technologies & Development
   <br>
-  📚 I’m currently learning how to build E-Commerce Website with Django
+  💬 Ask me anything about from <a href="https://github.com/RanushVimantha/RanushVimantha/issues" title="Issues">Here</a>
   <br>
-  💬 Ask me anything about from <a href="https://github.com/zumrudu-anka/zumrudu-anka/issues" title="Issues">Here</a>
-  <br>
-  📫 How to reach me: <a href="mailto: osmandurdag@hotmail.com">osmandurdag@hotmail.com</a>
+  📫 How to reach me: <a href="mailto: osmandurdag@hotmail.com">ranushvimantha1@gmail.com</a>
 </p>
 
 <hr>
