@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:00c6ff,100:7209b7&section=header&text=Ranush%20Vimantha&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Software%20Engineer%20%7C%20Cloud%20%26%20DevOps%20Enthusiast&descSize=20&descColor=ffffff&descAlignY=55" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=2,3,12,19,27&section=header&text=Ranush%20Vimantha&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=38&descAlignY=58&desc=Software%20Engineer%20~%20Cloud%20and%20DevOps%20Enthusiast&descSize=20&descColor=ffffff" />
 
 <!-- Profile Views & Social Badges -->
 
@@ -380,4 +380,4 @@ interests:
 <br/><br/>
 
 <!-- Animated Footer -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:7209b7,100:00c6ff&section=footer&animation=twinkling" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&customColorList=27,19,12,3,2&section=footer&animation=twinkling" />
