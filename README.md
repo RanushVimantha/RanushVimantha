@@ -285,35 +285,31 @@ interests:
 </div>
 
 <!-- Stats Cards Row -->
-<p align="center">
-  <a href="https://github.com/RanushVimantha">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=RanushVimantha&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=00c6ff&amp;icon_color=7209b7&amp;text_color=c9d1d9&amp;ring_color=00c6ff&amp;rank_icon=percentile" />
-  </a>
-  <a href="https://github.com/RanushVimantha">
-    <img width="49%" src="https://streak-stats.demolab.com/?user=RanushVimantha&amp;theme=tokyonight&amp;hide_border=true&amp;background=0d1117&amp;ring=00c6ff&amp;fire=7209b7&amp;currStreakLabel=00c6ff&amp;sideLabels=c9d1d9&amp;dates=8b949e&amp;sideNums=c9d1d9&amp;currStreakNum=00c6ff" />
-  </a>
-</p>
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RanushVimantha&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00c6ff&icon_color=7209b7&text_color=c9d1d9&ring_color=00c6ff&rank_icon=percentile)
+![GitHub Streak](https://streak-stats.demolab.com/?user=RanushVimantha&theme=tokyonight&hide_border=true&background=0d1117&ring=00c6ff&fire=7209b7&currStreakLabel=00c6ff&sideLabels=c9d1d9&dates=8b949e&sideNums=c9d1d9&currStreakNum=00c6ff)
+
+</div>
 
 <br/>
 
 <!-- Languages & Trophies Row -->
-<p align="center">
-  <a href="https://github.com/RanushVimantha">
-    <img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RanushVimantha&amp;layout=donut-vertical&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=00c6ff&amp;text_color=c9d1d9&amp;langs_count=8" />
-  </a>
-  <a href="https://github.com/RanushVimantha">
-    <img width="60%" src="https://github-profile-trophy.vercel.app/?username=RanushVimantha&amp;theme=algolia&amp;no-frame=true&amp;no-bg=true&amp;column=4&amp;margin-w=8&amp;margin-h=8" />
-  </a>
-</p>
+<div align="center">
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RanushVimantha&layout=donut-vertical&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00c6ff&text_color=c9d1d9&langs_count=8)
+![Trophies](https://github-profile-trophy.vercel.app/?username=RanushVimantha&theme=algolia&no-frame=true&no-bg=true&column=4&margin-w=8&margin-h=8)
+
+</div>
 
 <br/>
 
 <!-- Activity Graph -->
-<p align="center">
-  <a href="https://github.com/RanushVimantha">
-    <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=RanushVimantha&amp;theme=react-dark&amp;hide_border=true&amp;bg_color=0d1117&amp;color=00c6ff&amp;line=7209b7&amp;point=00c6ff&amp;area=true&amp;area_color=7209b7" />
-  </a>
-</p>
+<div align="center">
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=RanushVimantha&theme=react-dark&hide_border=true&bg_color=0d1117&color=00c6ff&line=7209b7&point=00c6ff&area=true&area_color=7209b7)
+
+</div>
 
 <br/>
 
