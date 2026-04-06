@@ -287,7 +287,7 @@ interests:
 <!-- Stats Cards Row -->
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RanushVimantha&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00c6ff&icon_color=7209b7&text_color=c9d1d9&ring_color=00c6ff&rank_icon=percentile)
+![GitHub Stats](https://github-readme-stats-six-delta-25.vercel.app/api?username=RanushVimantha&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00c6ff&icon_color=7209b7&text_color=c9d1d9&ring_color=00c6ff&rank_icon=percentile)
 ![GitHub Streak](https://streak-stats.demolab.com/?user=RanushVimantha&theme=tokyonight&hide_border=true&background=0d1117&ring=00c6ff&fire=7209b7&currStreakLabel=00c6ff&sideLabels=c9d1d9&dates=8b949e&sideNums=c9d1d9&currStreakNum=00c6ff)
 
 </div>
@@ -297,7 +297,7 @@ interests:
 <!-- Languages & Trophies Row -->
 <div align="center">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RanushVimantha&layout=donut-vertical&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00c6ff&text_color=c9d1d9&langs_count=8)
+![Top Langs](https://github-readme-stats-six-delta-25.vercel.app/api/top-langs/?username=RanushVimantha&layout=donut-vertical&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00c6ff&text_color=c9d1d9&langs_count=8)
 ![Trophies](https://github-profile-trophy.vercel.app/?username=RanushVimantha&theme=algolia&no-frame=true&no-bg=true&column=4&margin-w=8&margin-h=8)
 
 </div>
