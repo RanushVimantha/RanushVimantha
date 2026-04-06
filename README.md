@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=2,3,12,19,27&section=header&text=Ranush%20Vimantha&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=38&descAlignY=58&desc=AI%20Engineer%20~%20MLOps%20~%20Cloud%20%26%20DevOps&descSize=20&descColor=ffffff" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;height=250&amp;color=gradient&amp;customColorList=2,3,12,19,27&amp;section=header&amp;text=Ranush%20Vimantha&amp;fontSize=70&amp;fontColor=ffffff&amp;animation=twinkling&amp;fontAlignY=38&amp;descAlignY=58&amp;desc=AI%20Engineer%20~%20MLOps%20~%20Cloud%20and%20DevOps&amp;descSize=20&amp;descColor=ffffff" />
 
 <!-- Profile Views & Social Badges -->
 
