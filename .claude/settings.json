@@ -3,7 +3,9 @@
     "allow": [
       "Bash(gh api:*)",
       "WebFetch(domain:github.com)",
-      "WebFetch(domain:capsule-render.vercel.app)"
+      "WebFetch(domain:capsule-render.vercel.app)",
+      "Bash(curl -s -o /dev/null -w \"%{http_code}\" \"https://github-readme-stats-six-delta-25.vercel.app/api?username=RanushVimantha\")",
+      "Bash(curl -s \"https://github-readme-stats-six-delta-25.vercel.app/api?username=RanushVimantha\")"
     ]
   }
 }
