@@ -294,11 +294,10 @@ interests:
 
 <br/>
 
-<!-- Languages & Trophies Row -->
+<!-- Languages Row -->
 <div align="center">
 
 ![Top Langs](https://github-readme-stats-six-delta-25.vercel.app/api/top-langs/?username=RanushVimantha&layout=donut-vertical&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00c6ff&text_color=c9d1d9&langs_count=8&v=2)
-![Trophies](https://github-profile-trophy.vercel.app/?username=RanushVimantha&theme=algolia&no-frame=true&no-bg=true&column=4&margin-w=8&margin-h=8&v=2)
 
 </div>
 
